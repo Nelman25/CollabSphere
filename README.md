@@ -16,7 +16,7 @@ This project is being developed as the final project for our Object Oriented Pro
 
 ## **Tech Stack:**
 
-* Frontend: React
+* Frontend: HTML, CSS, JavaScript, React
 * Backend: Firebase
 
 ## **Current Stage:**
